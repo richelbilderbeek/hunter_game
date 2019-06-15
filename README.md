@@ -1,5 +1,9 @@
 # hunter_game
 
+Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+---|---
+`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/hunter_game.svg?branch=master)](https://travis-ci.org/richelbilderbeek/hunter_game)
+
 NetLogo (v. 5.3.1) game by Rolf F. Storms.
 
 This game was programmed due to a TRES event called 'fun programming', in which one
